@@ -4,8 +4,9 @@
 *.pdf
 *.jpeg
 *.Rdata
+*.Rhistory
 *.xls
-*.xlxs
+*.xlsx
 FU88_150916_SampleMethylationProfile.txt
 HumanMethylation450_15017482_v.1.2.csv
 FU88_150916_SamplesID_SentrixID.txt
